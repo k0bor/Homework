@@ -33,6 +33,3 @@ color: black;
   color: goldenrod; /* И цвет сменяется на серый. */
   text-shadow: 0 0 100px ;
 }
-.silka:visited{
-color:darkgoldenrod
-}
