@@ -2,10 +2,10 @@ body{
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
 font-size:larger ;
 background-image: url(https://img.freepik.com/free-photo/empty-elegant-background-with-copy-space_24972-1807.jpg?t=st=1739815595~exp=1739819195~hmac=c3d3a4af8be67f17bff0a834557d63c009a571f609c13a83f5f6e8969571c53f&w=1380);
-background-position: center;
-background-repeat: no-repeat;
+background-position: center;/*фон по центру*/
+background-repeat: no-repeat;/*фон не повторять*/
 background-attachment: fixed;
-background-size: cover;
+background-size: cover;/*адаптировать фон*/
 }
 .head{
 height: 200px;
@@ -13,23 +13,23 @@ font-size: 55px; /*размер шрифта*/
 text-align: center; /*выравнивание по центру*/
 font-weight: 750; /*толщина шрифта*/
 color: goldenrod ; /*цвет*/
-font-variant: small-caps;
-text-shadow: 0 0 50px ;
-margin-top: 70px;
+font-variant: small-caps;/*мини капс */
+text-shadow: 0 0 50px ; /*тень */
+margin-top: 70px; /*отступ */
 }
 .indspis{
-list-style:none ;
+list-style:none ; /*убирает метку списка */
 text-align: center;
 font-size: 25px;
 font-variant: small-caps;
 }
 .silka{
-text-decoration: none; 
-transition: 0.75s;
+text-decoration: none;  /*убирает подчеркивание у ссылки */
+transition: 0.75s; /*задержка */
 color: black;
 
 }
-.silka:hover{
-  color: goldenrod; /* И цвет сменяется на серый. */
-  text-shadow: 0 0 100px ;
+.silka:hover{ /*изменения при наведении */
+  color: goldenrod; /*цвет */
+  text-shadow: 0 0 100px ; /*добавляет тень */
 }
