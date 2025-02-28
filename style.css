@@ -4,7 +4,6 @@ font-size:larger ;
 background-image: url(indfon.jpg);
 background-position: center;/*фон по центру*/
 background-repeat: no-repeat;/*фон не повторять*/
-background-attachment: fixed;
 background-size: cover;/*адаптировать фон*/
 flex-direction: column;
   justify-content: center;
