@@ -39,5 +39,7 @@ height: 95vh;
 width: 95vw;
  background-attachment: local;
 background-size: auto;
+  overflow-x: hidden;
+overflow-y: hidden;
 }
 }
