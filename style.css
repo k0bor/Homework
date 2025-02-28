@@ -36,4 +36,9 @@ color: black;
   text-shadow: 0 0 100px ; /*добавляет тень */
 }
 
-
+@media screen and (max-width: 768px) {
+body{
+  width: 90vw;
+  height: 90vh;
+}
+}
