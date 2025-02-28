@@ -11,7 +11,7 @@ flex-direction: column;
 }
 .head{
 height: 25vh; /*отступ он верхушки сайта*/
-font-size: 50px; /*размер шрифта*/
+font-size: 4vh; /*размер шрифта*/
 text-align: center; /*выравнивание по центру*/
 font-weight: 750; /*толщина шрифта*/
 color: goldenrod ; /*цвет*/
@@ -36,14 +36,4 @@ color: black;
   text-shadow: 0 0 100px ; /*добавляет тень */
 }
 
-@media screen and (max-width: 768px) {
-body{
-height: 80vh;
-width: 80vw;
-overflow-x: hidden;
-overflow-y: hidden;
-}
-.head{
-  font-size: 4vh;
-}
-}
+
