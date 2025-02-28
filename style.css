@@ -38,7 +38,9 @@ color: black;
 
 @media screen and (max-width: 768px) {
 body{
-  width: 90vw;
-  height: 90vh;
+height: 80vh;
+width: 80vw;
+overflow-x: hidden;
+overflow-y: hidden;
 }
 }
