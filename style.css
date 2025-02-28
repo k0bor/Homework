@@ -5,6 +5,7 @@ background-image: url(indfon.jpg);
 background-position: center;/*фон по центру*/
 background-attachment:fixed;
 background-size:cover;/*адаптировать фон*/
+  background-repeat: no-repeat;/*фон не повторять*/
 }
 .head{
 height: 25vh; /*отступ он верхушки сайта*/
