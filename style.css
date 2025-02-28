@@ -10,8 +10,8 @@ flex-direction: column;
   justify-content: center;
 }
 .head{
-height: 200px; /*отступ он верхушки сайта*/
-font-size: 55px; /*размер шрифта*/
+height: 25vh; /*отступ он верхушки сайта*/
+font-size: 50px; /*размер шрифта*/
 text-align: center; /*выравнивание по центру*/
 font-weight: 750; /*толщина шрифта*/
 color: goldenrod ; /*цвет*/
