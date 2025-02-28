@@ -4,9 +4,9 @@ font-size:larger ;
 background-image: url(indfon.jpg);
 background-position: center;/*фон по центру*/
 background-repeat: no-repeat;/*фон не повторять*/
-/*адаптировать фон*/
-flex-direction: column;
-  justify-content: center;
+background-attachment: local;
+background-size: auto;
+
  
 }
 .head{
