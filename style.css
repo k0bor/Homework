@@ -34,12 +34,3 @@ color: black;
   text-shadow: 0 0 100px ; /*добавляет тень */
 }
 
-@media screen and (max-width: 768px) {
-body{
-height: 95vh;
-width: 95vw;
- background-attachment: local;
-background-size: auto;
-  overflow-x: hidden;
-overflow-y: hidden;
-}
