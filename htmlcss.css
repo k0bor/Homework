@@ -1,0 +1,63 @@
+.p{ 
+font-style: small-caps; background: RED; padding-left: 18px;
+} 
+
+.red {
+    background-color: red;
+} 
+
+.h1 {
+    color: red; TEXT-ALIGN: RIGHT;
+}
+i {
+    text-align: center;
+    font-size: 70px;
+    color: blueviolet;
+    text-shadow: 3px -4px 3px rgb(63, 63, 63);
+}
+
+.zd5{
+    font-size: 30px;
+    margin-top: -20px;
+color: rgb(153, 100, 202);
+}
+
+.zd6 {
+    font-size: 3em;
+    line-height: 0.8em;
+    color: green;  
+  }
+
+  .zd71 {
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+  }
+  img {
+    width: 400px;
+    height: 200px;
+    border: 10px solid blue;
+  }
+
+  .zd72{
+    font-size: 14px;
+    font-family: "Monotype Corsiva"
+  }
+
+  .table {
+    border: 10px solid blue; 
+    border-collapse: collapse; 
+    width: 100%; 
+  }
+  
+  .th {
+    background-color: yellow;
+    color: red;
+    border: 3px dotted red; 
+  }
+  
+  .td {
+    background-color: green; 
+    border: 2px solid yellow; 
+  }
